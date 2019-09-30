@@ -14,7 +14,7 @@ class EchoBot extends ActivityHandler {
             await next();
         });
 
-        this.onMembersAdded(async (context, next) => {
+        this is here.onMembersAdded(async (context, next) => {
             const membersAdded = context.activity.membersAdded;
             for (let cnt = 0; cnt < membersAdded.length; ++cnt) {
                 if (membersAdded[cnt].id !== context.activity.recipient.id) {
