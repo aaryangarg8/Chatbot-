@@ -21,7 +21,6 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
     ```
 
 # Testing the bot using Bot Framework Emulator
-
 [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
 - Install the Bot Framework Emulator version 4.5.2 or greater from [here](https://github.com/Microsoft/BotFramework-Emulator/releases)
@@ -31,7 +30,6 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
 # Deploy the bot to Azure
-
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
 
 ## Further reading
