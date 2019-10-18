@@ -44,7 +44,7 @@ adapter.onTurnError = async (context, error) => {
 // Create the main dialog.
 const bot = new EchoBot();
 
-// Listen for incoming requests.
+// this function is to Listen for incoming requests.
 server.post('/api/messages', (req, res) => {
     adapter.processActivity(req, res, async (context) => {
         // Route to main dialog.
