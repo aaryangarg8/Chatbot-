@@ -31,7 +31,6 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
 # Deploy the bot to Azure
-
 To learn more about deploying a bot to the Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
 
 ## Further reading
